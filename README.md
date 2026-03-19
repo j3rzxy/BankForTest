@@ -15,3 +15,4 @@
 <br>
 <img width="1160" height="269" alt="image" src="https://github.com/user-attachments/assets/c99d831d-ad9a-4054-b24d-7b7d428597d9" />
 <br>
+Все тесты выполнены успешно. 
