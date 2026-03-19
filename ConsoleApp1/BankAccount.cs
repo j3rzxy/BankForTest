@@ -65,7 +65,7 @@ namespace BankAccountNS
                 throw new ArgumentOutOfRangeException("amount");
             }
 
-            m_balance += amount;
+            m_balance -= amount;
         }
         /// <summary>
         /// Метод Credit, который вызывается, когда денежные средства поступают на счет.
